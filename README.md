@@ -1,8 +1,13 @@
-# React + Vite
+Project Name: React_WeatherForcast_API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Technologies Use : React + Vite, JavaScript, Tailwind CSS
 
-Currently, two official plugins are available:
+Step 1 : Enter the value in the input (City name)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![tep1](https://github.com/user-attachments/assets/4b2f8068-77e6-48e7-9067-3413f47ff512)
+
+Step 2 : See the all details from API 
+
+![tep2](https://github.com/user-attachments/assets/3d5a8146-ee46-4412-90d9-73ec6f5912f4)
+
+
